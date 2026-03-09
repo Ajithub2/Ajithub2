@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ajith 👋
 
-<!--
-**Ajithub2/Ajithub2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst passionate about transforming raw data into insights.
 
-Here are some ideas to get you started:
+## Skills
+- Excel
+- SQL
+- Python
+- Power BI
+- Data Cleaning
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Retail Sales Analysis
+- Flight Ticket Price Analysis
+- IPL Data Analysis
+
+## Tools
+Python | Pandas | NumPy | Power BI | MySQL
+
+## Contact
+Email: ajithajith2000000@gmail.com
