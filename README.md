@@ -16,7 +16,7 @@ Aspiring Data Analyst passionate about transforming raw data into insights.
 - IPL Data Analysis
 
 ## Tools
-Python | Pandas | NumPy | Power BI | MySQL
+Python | Pandas | NumPy | Power BI | MySQL | Microsoft Excel 
 
 ## Contact
 Email: ajithajith2000000@gmail.com
